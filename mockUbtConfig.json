@@ -1,0 +1,75 @@
+[
+    {
+        "pageId": "A_YYKH_007",
+        "pageContent": "HomeView",
+        "children": [
+            "A_YYKH_007_001%%bbbbbbb%%",
+            "A_YYKH_007_002%%sssss%%",
+            "A_YYKH_007_003%%%%",
+            "A_YYKH_007_004%%{{ meme }}%%"
+        ],
+        "cpns": [
+            "hahacpn.vue"
+        ]
+    },
+    {
+        "pageId": "A_YYKH_004",
+        "pageContent": "AboutView",
+        "children": [
+            "A_YYKH_004_asddsa%%This is an about page%%",
+            "A_YYKH_004_%%%%"
+        ],
+        "cpns": []
+    },
+    {
+        "pageId": "A_YYKH_009",
+        "pageContent": "HomeView2",
+        "children": [
+            "A_YYKH_009_%%hahaha%%",
+            "A_YYKH_009_%%%%",
+            "A_YYKH_009_testid%%{{ meme }}%%"
+        ],
+        "cpns": [
+            "hahacpn.vue"
+        ]
+    },
+    {
+        "pageId": "A_YYKH_001",
+        "pageContent": "HomeView",
+        "children": [
+            "A_YYKH_001_%%bbbbbbb%%",
+            "A_YYKH_001_%%sssss%%",
+            "A_YYKH_001_%%%%",
+            "A_YYKH_001_testid%%{{ meme }}%%"
+        ],
+        "cpns": [
+            "hahacpn.vue"
+        ]
+    },
+    {
+        "pageId": "A_YYKH_002",
+        "pageContent": "HomeView",
+        "children": [
+            "A_YYKH_002_%%bbbbbbb%%",
+            "A_YYKH_002_%%sssss%%",
+            "A_YYKH_002_%%%%",
+            "A_YYKH_002_testid%%{{ meme }}%%"
+        ],
+        "cpns": [
+            "hahacpn.vue"
+        ]
+    },
+    {
+        "pageId": "A_YYKH_003",
+        "pageContent": "HomeView",
+        "children": [
+            "A_YYKH_003_%%bbbbbbb%%",
+            "A_YYKH_003_%%sssss%%",
+            "A_YYKH_003_%%%%",
+            "A_YYKH_003_testid%%{{ meme }}%%"
+        ],
+        "cpns": [
+            "hahacpn.vue"
+        ]
+    }
+]
